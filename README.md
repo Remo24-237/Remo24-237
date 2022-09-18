@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, and basket ball
 - 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on python and Java projects
-- 📫 How to reach me ...
+- 📫 How to reach me. Shoot me an email at oolloumou@icloud.com
 
 <!---
 Remo24-237/Remo24-237 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
