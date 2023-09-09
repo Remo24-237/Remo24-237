@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Remo24-237
-- 👀 I’m interested in coding, and basket ball
-- 🌱 I’m currently learning Python and Java
-- 💞️ I’m looking to collaborate on python and Java projects
+- 👀 I’m interested in coding, basketball and love to draw.
+- 🌱 I’m currently learning Python and Java.
+- 💞️ I’m looking to collaborate on python and Java projects.
 - 📫 How to reach me. Shoot me an email at oolloumou@icloud.com
 
 <!---
