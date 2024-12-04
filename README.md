@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Remo24-237
+- 👋 Hi, I’m Remo
 - 👀 I’m interested in coding, and basketball, and love to draw.
 - 🌱 I’m currently learning Python and Java.
 - 💞️ I’m looking to collaborate on C#, python and Java projects.
